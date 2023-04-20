@@ -1,9 +1,9 @@
-import { Texture } from "./components";
+import { Geometry } from "./components";
 
 function App() {
   return (
     <>
-      <Texture />
+      <Geometry />
     </>
   );
 }
